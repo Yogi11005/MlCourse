@@ -1,0 +1,6 @@
+# MlCourse
+Homeworks from ECE 847 ML course. Clustering and PCA
+
+hW5_1 HAS CODE FOR K-MEANS AND SPECTRAL CLUSTERING
+
+Hw5_2 HAS CODE FOR pca USING SVD
